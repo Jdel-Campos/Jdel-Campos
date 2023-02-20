@@ -1,12 +1,21 @@
-<h2><strong>Oiee, me chamo o Jardel Campos, sou Desenvolvedor Fullstack em formação pela Kenzie Academy Brasil!</strong></2>
+<h2><strong>Hi, my name is Jardel Campos, I'm a FullStack developer.</strong></2>
 
 ##
 
-<div align="center"><strong>Tenho conhecimneto nas seguintes linguagens:</strong></div>
+📚 <strong>I'm currently learning Full Stack through Kenzie Academy Brazil.</strong>
+
+🚧 And to apply my knowledge that I've been learning, I have a project that people can access if you're interested.
+
+📃 In addition to programming, I have basic knowledge of creating layouts with Figma and other page image editing platforms.
+
+##
+
+<div align="center"><strong>TI have knowledge in the following languages:</strong></div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="campos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="campos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="campos-CSS" height="30" width="40" src="https://devicons.railway.app/i/javascript.svg">
 </div>
 
 ##
