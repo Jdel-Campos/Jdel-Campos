@@ -2,7 +2,7 @@
 
 ##
 
-📚 <strong>Currently, I work as a developer specialized in Front-End, focusing on projects in this area.</strong>
+📚 Currently, I work as a developer specialized in Front-End, focusing on projects in this area.
 
 🚧 To present a little more of my work, I have some applications available on GitHub, which I invite everyone to access and learn more about my skills and experiences.
 
