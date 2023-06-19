@@ -1,12 +1,12 @@
-<h2><strong>Hi, my name is Jardel Campos, I'm a FullStack developer.</strong></2>
+<h2><strong>Hello, my name is Jardel Campos, I'm a Full Stack developer in training.</strong></2>
 
 ##
 
-📚 <strong>I'm currently learning Full Stack through Kenzie Academy Brazil.</strong>
+📚 <strong>Currently, I work as a developer specialized in Front-End, focusing on projects in this area.</strong>
 
-🚧 And to apply my knowledge that I've been learning, I have a project that people can access if you're interested.
+🚧 To present a little more of my work, I have some applications available on GitHub, which I invite everyone to access and learn more about my skills and experiences.
 
-📃 In addition to programming, I have basic knowledge of creating layouts with Figma and other page image editing platforms.
+📃 In addition to programming, I have a fascination for creating designs and, in that sense, I have been actively involved in creating layouts using the Figma platform. However, I recognize the importance of improving my knowledge in this area and, therefore, I plan to take a UI/UX course in order to deepen my expertise in this field.
 
 ##
 
