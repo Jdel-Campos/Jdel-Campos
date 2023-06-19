@@ -1,6 +1,6 @@
 <h2><strong>Hello, my name is Jardel Campos, I'm a Full Stack developer in training.</strong></2>
 
-##
+#
 
 📚 Currently, I work as a developer specialized in Front-End, focusing on projects in this area.
 
