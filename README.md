@@ -1,74 +1,76 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jardel+Campos;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# Hi, I'm Jardel Campos!
 
-#
+Profile image](link_to_your_profile_image.jpg)
 
-<h3 align="center">I'm a UX/UI Designer and Front End Developer. I'm a guy passionate about creating and developing things and that's why I like technology so much, because it gives us this possibility!</h3>
 
-<br>
+## About Me
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jdel-Campos&bg_color=4f4f4f&color=ffffff&line=d6d6d6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Hi, I'm Jardel Campos, a Full Stack developer passionate about technology and focused on using modern technologies to create incredible solutions. My journey is a constant search for improvement and exciting challenges. Below, you'll find more information about my skills, experience and interests:
 
-#
+- 🚀 **Technology Focus**: My passion lies in web and mobile application development, and my core technologies include React.js, Next.js, Typescript, and Python (Django). These tools allow me to create amazing applications with impressive performance and user experience.
 
-<h3 align="center">Tools I use to develop my codes:</h3>
-<p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-</p>
+- 🔧 **Featured Skills**: I'm comfortable with a diverse set of tools and languages, including React, Next.js, Typescript, Python (Django), Express, Node.js, Nest.js, Tailwind CSS, Sass, UI Design, CSS and HTML. My skills are based on practical experience and constant learning.
 
-<br>
+- 📈 **Projects and Studies**: During my studies, I created several projects, each one contributing to the improvement of my skills. The quest for knowledge never stops, and I'm always striving to create new projects to expand my repertoire.
 
-<h3 align="center">Other tools I'm aware of:</h3>
-<p align="center">
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-<br>
+- 🤝 **Agile Methodologies**: I have experience with agile methodologies, especially Scrum. I have worked as a Scrum Master on academic projects, collaborating with teams to ensure effective and timely deliveries.
 
-<h3 align="center">Programming tools I know:</h3>
-<p align="center">
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p> 
-<br>
+- 🎨 **Design World**: In addition to development, I'm exploring the world of design, studying UI (User Interface) and Design. I believe that solid design is essential for an exceptional user experience.
 
-<h3 align="center">Software:</h3>
-<p align="center">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-</p>
-<br>
 
-#
+## Technologies and Tools
 
 <div align="center">
-  <a href="https://github.com/Jdel-Campos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jdel-campos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdel-campos&layout=compact&langs_count=7&theme=dark"/>
+<!--   <h3> Tools I know </h3>
+    <div>  -->
+      <img height="24em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img height="24em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
+      <img height="24em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+      <img height="24em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3" />
+<!--     </div>
+    <div>  -->
+      <img height="24em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
+      <img height="24em" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+      <img height="24em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img height="24em" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+<!--     </div>
+    <div>  -->
+      <img height="24em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img height="24em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img height="24em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img height="24em" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Style Componentes" />
+<!--     </div>
+    <div>  -->
+      <img height="24em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      <img height="24em" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+      <img height="24em" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+      <img height="24em" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<!--     </div> -->
+  <img height="24em" src="" alt="" />
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdel-campos&" alt="jdel-campos" /></p>
+## Main Projects
+- [Project Name 1](project_link1)
+- [Project Name 2](project_link2)
 
- <br>
- 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/jdelcampos"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jdelcampos" /></a><a href="https://ko-fi.com/jdelcampos"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jdelcampos" /></a></p><br><br>
+## GitHub Statistics
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jdel-Campos&bg_color=4f4f4f&color=ffffff&line=d6d6d6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#
-
-<h3 align="center">Connect with me:</h3>
-<div align="center"> 
-    <a href = "mailto:campos.34pss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://www.linkedin.com/in/jardel-campos-5769a819a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.behance.net/jdelcampos" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-     <a href="https://dribbble.com/jdel_campos" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
-    <a href="https://medium.com/@jdelcampos" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<div align="center">
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=jdel-campos&" alt="jdel-campos" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jdel-campos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdel-campos&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
+## How to Contact Us
+- Email: campos.34pss@gmail.com
+- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/jardel-campos-5769a819a/)
+
+## Contribution and Support
+If you would like to support me, you can buy me a coffee: [Buy me a Coffee](https://www.buymeacoffee.com/jdelcampos)
+
+## Social Networks
+- [Behance](https://www.behance.net/jdelcampos)
+- [Dribbble](https://dribbble.com/jdel_campos)
+- [Medium](https://medium.com/@jdelcampos)
