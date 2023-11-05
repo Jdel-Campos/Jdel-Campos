@@ -1,6 +1,6 @@
 # Hi, I'm Jardel Campos!
 
-AFull Stack developer passionate about technology and focused on using modern technologies to create incredible solutions. My journey is a constant search for improvement and exciting challenges. Below, you'll find more information about my skills, experience and interests:
+A Full Stack developer passionate about technology and focused on using modern technologies to create incredible solutions. My journey is a constant search for improvement and exciting challenges. Below, you'll find more information about my skills, experience and interests:
 
 - 🚀 **Technology Focus**: My passion lies in web and mobile application development, and my core technologies include React.js, Next.js, Typescript, and Python (Django). These tools allow me to create amazing applications with impressive performance and user experience.
 
