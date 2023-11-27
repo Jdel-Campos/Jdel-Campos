@@ -45,8 +45,8 @@ A Full Stack developer passionate about technology and focused on using modern t
 </div>
 
 ## Main Projects
-- [Project Name 1](project_link1)
-- [Project Name 2](project_link2)
+- [WeGreen](we-green-projeto-final.vercel.app)
+- [My Portfolio](my-portfolio-v1-red.vercel.app)
 
 ## GitHub Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jdel-Campos&bg_color=4f4f4f&color=ffffff&line=d6d6d6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
