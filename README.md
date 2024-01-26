@@ -1,16 +1,17 @@
 # Hi, I'm Jardel Campos!
 
-A Full Stack developer passionate about technology and focused on using modern technologies to create incredible solutions. My journey is a constant search for improvement and exciting challenges. Below, you'll find more information about my skills, experience and interests:
+Sou um Desenvolvedor Full Stack Júnior apaixonado por desafios e constante aprendizado. Atualmente cursando Engenharia de Software, estou empenhado em aprimorar minhas habilidades e me tornar um Engenheiro de Software de excelência. Estou comprometido em não apenas atender, mas superar as expectativas. Estudo constantemente para me destacar como um profissional multifacetado. Busco oportunidades desafiadoras como Engenheiro de Software, aspirando alcançar cargos de liderança dentro das empresas, onde minha paixão pela inovação e resolução de problemas possa florescer.
 
-- 🚀 **Technology Focus**: My passion lies in web and mobile application development, and my core technologies include React.js, Next.js, Typescript, and Python (Django). These tools allow me to create amazing applications with impressive performance and user experience.
 
-- 🔧 **Featured Skills**: I'm comfortable with a diverse set of tools and languages, including React, Next.js, Typescript, Python (Django), Express, Node.js, Nest.js, Tailwind CSS, Sass, UI Design, CSS and HTML. My skills are based on practical experience and constant learning.
+- 🚀 **Family in**: Tenho familiriedade em tecnologias como HTML, CSS, Javascript, React, Next.js, Nest.js, Node.js, Python (Django), Express, Typescript, Tailwind CSS, Interface de Programação de Aplicativos (API), Sass, TypeORM, JWT, Styled-Components, Vercionamento Git, PostgreeSQL, Prisma.
 
-- 📈 **Projects and Studies**: During my studies, I created several projects, each one contributing to the improvement of my skills. The quest for knowledge never stops, and I'm always striving to create new projects to expand my repertoire.
+- 🔧 **Tech study**: Além disso, estou sempre buscando expandir meu conhecimento, atualmente explorando Java, C#, .Net, MongoDB, Cypress, Vue.js, Angular, AWS e Power BI.
 
-- 🤝 **Agile Methodologies**: I have experience with agile methodologies, especially Scrum. I have worked as a Scrum Master on academic projects, collaborating with teams to ensure effective and timely deliveries.
+- 📈 **Projects and Studies**: Durante meu ultimo ano pude me dedicar bastate na programação que foi inde puder ter os fundamentos de varias tecnoligias quando estudei pela Kenzie Academy Brasil. Hoje venho buscar elevar esse nivel através da Udemy onde posso fazer cursos complementar e através da minha Graduação. Meus projetos feitos até o momento são academicos mas pude aprender bastante edesenvolver minha lógica. 
 
-- 🎨 **Design World**: In addition to development, I'm exploring the world of design, studying UI (User Interface) and Design. I believe that solid design is essential for an exceptional user experience.
+- 🤝 **Agile Methodologies**: Tenho experiência com metodologias ágeis, especialmente Scrum. Trabalhei como Scrum Master em projetos acadêmicos, colaborando com equipes para garantir entregas eficazes e pontuais.
+
+- 🎨 **Design World**: Além do desenvolvimento, estou explorando o mundo do design, estudando UI (User Interface) e Design. Acredito que um design sólido é essencial para uma experiência excepcional do usuário.
 
 
 ## Technologies and Tools
