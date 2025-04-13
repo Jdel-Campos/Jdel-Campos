@@ -1,17 +1,74 @@
-# Hi, I'm Jardel Campos!
-
-Sou um Desenvolvedor Full Stack Júnior apaixonado por desafios e constante aprendizado. Atualmente cursando Engenharia de Software, estou empenhado em aprimorar minhas habilidades e me tornar um Engenheiro de Software de excelência. Estou comprometido em não apenas atender, mas superar as expectativas. Estudo constantemente para me destacar como um profissional multifacetado. Busco oportunidades desafiadoras como Engenheiro de Software, aspirando alcançar cargos de liderança dentro das empresas, onde minha paixão pela inovação e resolução de problemas possa florescer.
+# 👨‍💻 Hi, I'm Jardel Campos!
 
 
-- 🚀 **Family in**: Tenho familiriedade em tecnologias como HTML, CSS, Javascript, React, Next.js, Nest.js, Node.js, Python (Django), Express, Typescript, Tailwind CSS, Interface de Programação de Aplicativos (API), Sass, TypeORM, JWT, Styled-Components, Vercionamento Git, PostgreeSQL, Prisma.
+Sou um **Desenvolvedor Full Stack Júnior** com sólida base em **Engenharia de Software**, apaixonado por resolver problemas com tecnologia e comprometido com a excelência técnica. Atualmente, curso **Engenharia de Software** e estou em constante evolução para me tornar um **Engenheiro de Software completo**, com domínio em todas as etapas do desenvolvimento de sistemas.
 
-- 🔧 **Tech study**: Além disso, estou sempre buscando expandir meu conhecimento, atualmente explorando Java, C#, .Net, MongoDB, Cypress, Vue.js, Angular, AWS e Power BI.
+Busco oportunidades desafiadoras onde possa aplicar meus conhecimentos em **arquitetura de sistemas**, **desenvolvimento full stack** e **boas práticas DevOps**, contribuindo ativamente para a construção de soluções robustas, escaláveis e eficientes.
 
-- 📈 **Projects and Studies**: Durante meu ultimo ano pude me dedicar bastate na programação que foi inde puder ter os fundamentos de varias tecnoligias quando estudei pela Kenzie Academy Brasil. Hoje venho buscar elevar esse nivel através da Udemy onde posso fazer cursos complementar e através da minha Graduação. Meus projetos feitos até o momento são academicos mas pude aprender bastante edesenvolver minha lógica. 
+---
 
-- 🤝 **Agile Methodologies**: Tenho experiência com metodologias ágeis, especialmente Scrum. Trabalhei como Scrum Master em projetos acadêmicos, colaborando com equipes para garantir entregas eficazes e pontuais.
+## 🧠 Competências Técnicas
 
-- 🎨 **Design World**: Além do desenvolvimento, estou explorando o mundo do design, estudando UI (User Interface) e Design. Acredito que um design sólido é essencial para uma experiência excepcional do usuário.
+### Frontend
+- **Linguagens:** HTML5, CSS3, JavaScript, TypeScript  
+- **Frameworks e Bibliotecas:** React.js, Next.js  
+- **Estilização:** Tailwind CSS, Sass, Styled-Components  
+- **Boas práticas:** Componentização, Responsividade, Acessibilidade, Performance  
+
+### Backend
+- **Linguagens:** Node.js, Python  
+- **Frameworks:** NestJS, Express.js, Django  
+- **Segurança:** Autenticação com JWT, Validação de dados, Controle de acesso  
+- **APIs:** RESTful APIs, arquitetura MVC, documentação com Swagger  
+
+### Banco de Dados
+- **Relacionais:** PostgreSQL, MySQL  
+- **ORMs:** TypeORM, Prisma  
+
+### DevOps & Ferramentas
+- **Versionamento:** Git, GitHub  
+- **Deploy:** Vercel, Railway  
+- **Integração Contínua:** GitHub Actions *(em aprendizado)*  
+- **Outros:** Docker *(básico)*, AWS *(em estudo)*  
+
+---
+
+## 📚 Formação & Estudos
+
+- **Kenzie Academy Brasil:** Formação intensiva em Desenvolvimento Full Stack com foco em projetos práticos, metodologias ágeis e trabalho em equipe.  
+- **Graduação em Engenharia de Software (em andamento):** Aprofundamento em arquitetura de sistemas, estruturas de dados, algoritmos e engenharia de requisitos.  
+- **Cursos Complementares:** Udemy e outras plataformas, sempre buscando expandir conhecimentos técnicos e práticas modernas de desenvolvimento.
+
+---
+
+## 📌 Atualmente Estudando
+
+- **Linguagens e Frameworks:** Java, C#, .NET, Vue.js, Angular  
+- **Banco de Dados e Ferramentas:** MongoDB, Power BI  
+- **Testes e DevOps:** Cypress, Docker, AWS, GitHub Actions  
+
+---
+
+## 🧪 Metodologias & Soft Skills
+
+- Experiência com **Scrum**, atuando como **Scrum Master** em projetos acadêmicos.  
+- Foco em **colaboração em equipe**, **comunicação eficaz**, **resolução de problemas** e **entregas contínuas**.  
+
+---
+
+## 🚀 Projetos em Destaque
+
+- **WeGreen**  
+  Projeto desenvolvido com foco em sustentabilidade, utilizando tecnologias modernas no frontend e backend.
+
+- **Portfólio Pessoal**  
+  Aplicação que apresenta minha trajetória, habilidades, projetos e contato.
+
+---
+
+Se você chegou até aqui, obrigado pelo interesse no meu trabalho!  
+Entre em contato comigo para conversarmos sobre tecnologia, projetos ou oportunidades.  
+
 
 
 ## Technologies and Tools
