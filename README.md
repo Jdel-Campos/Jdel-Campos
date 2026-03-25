@@ -1,129 +1,134 @@
-# 👨‍💻 Hi, I'm Jardel Campos!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:023e8a&height=220&section=header&text=Oi,%20eu%20sou%20Jardel%20Campos%20👋&fontSize=46&fontColor=ffffff&fontAlignY=60&desc=Full%20Stack%20Developer%20%7C%20Em%20busca%20da%20primeira%20oportunidade&descAlignY=78&descSize=17&descColor=caf0f8" />
 
+<br/>
 
-Sou um **Desenvolvedor Full Stack Júnior** com sólida base em **Engenharia de Software**, apaixonado por resolver problemas com tecnologia e comprometido com a excelência técnica. Atualmente, curso **Engenharia de Software** e estou em constante evolução para me tornar um **Engenheiro de Software completo**, com domínio em todas as etapas do desenvolvimento de sistemas.
+<img align="right" width="36%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
-Busco oportunidades desafiadoras onde possa aplicar meus conhecimentos em **arquitetura de sistemas**, **desenvolvimento full stack** e **boas práticas DevOps**, contribuindo ativamente para a construção de soluções robustas, escaláveis e eficientes.
+### Quem sou eu?
 
----
+Sou um **Full Stack Developer** movido por uma coisa: transformar problemas reais em soluções limpas e funcionais.
 
-## 🧠 Competências Técnicas
+Me formei na **Kenzie Academy Brasil** um bootcamp intensivo de 1 ano focado em desenvolvimento full stack e estou aprofundando minha base técnica através da graduação em **Engenharia de Software**. Já construí e entreguei projetos academicos, trabalhei em equipes ágeis e atuei como **Scrum Master** em ambientes colaborativos.
 
-### Frontend
-- **Linguagens:** HTML5, CSS3, JavaScript, TypeScript  
-- **Frameworks e Bibliotecas:** React.js, Next.js  
-- **Estilização:** Tailwind CSS, Sass, Styled-Components  
-- **Boas práticas:** Componentização, Responsividade, Acessibilidade, Performance  
+Estou em busca da minha **primeira oportunidade profissional** como desenvolvedor remoto, focado e pronto para contribuir desde o primeiro dia.
 
-### Backend
-- **Linguagens:** Node.js, Python  
-- **Frameworks:** NestJS, Express.js, Django  
-- **Segurança:** Autenticação com JWT, Validação de dados, Controle de acesso  
-- **APIs:** RESTful APIs, arquitetura MVC, documentação com Swagger  
+📍 Brasil &nbsp;·&nbsp; 🌐 Remoto &nbsp;·&nbsp; ⚡ Disponível agora
 
-### Banco de Dados
-- **Relacionais:** PostgreSQL, MySQL  
-- **ORMs:** TypeORM, Prisma  
+<br/>
 
-### DevOps & Ferramentas
-- **Versionamento:** Git, GitHub  
-- **Deploy:** Vercel, Railway  
-- **Integração Contínua:** GitHub Actions *(em aprendizado)*  
-- **Outros:** Docker *(básico)*, AWS *(em estudo)*  
+<a href="https://www.linkedin.com/in/jardel-campos-5769a819a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b6?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:campos.34pss@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://portfolio-v1-pi-vert.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-0077b6?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://medium.com/@jdelcampos">
+  <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" />
+</a>
+<a href="https://www.behance.net/jdelcampos">
+  <img src="https://img.shields.io/badge/Behance-0056ff?style=flat-square&logo=behance&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@DelkzoOneTechnology">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+</a>
 
----
-
-## 📚 Formação & Estudos
-
-- **Kenzie Academy Brasil:** Formação intensiva em Desenvolvimento Full Stack com foco em projetos práticos, metodologias ágeis e trabalho em equipe.  
-- **Graduação em Engenharia de Software (em andamento):** Aprofundamento em arquitetura de sistemas, estruturas de dados, algoritmos e engenharia de requisitos.  
-- **Cursos Complementares:** Udemy e outras plataformas, sempre buscando expandir conhecimentos técnicos e práticas modernas de desenvolvimento.
+<br/><br/>
 
 ---
 
-## 📌 Atualmente Estudando
+### 🧠 O que eu trago
 
-- **Linguagens e Frameworks:** Java, C#, .NET, Vue.js, Angular  
-- **Banco de Dados e Ferramentas:** MongoDB, Power BI  
-- **Testes e DevOps:** Cypress, Docker, AWS, GitHub Actions  
+| | |
+|---|---|
+| 🎓 **Formação** | Kenzie Academy Brasil (Full Stack) · Engenharia de Software (em andamento) |
+| 🤝 **Trabalho em equipe** | Scrum Master em projetos acadêmicos · entregas em sprints |
+| 🔁 **Fluxo de trabalho** | Git Flow · Code Review · REST APIs · MVC · Swagger |
+| 🌍 **Idiomas** | Português (nativo) · Inglês (leitura e escrita técnica) |
+| 🚀 **Buscando** | Vaga Júnior Full Stack · Frontend · Backend · Remoto |
 
----
-
-## 🧪 Metodologias & Soft Skills
-
-- Experiência com **Scrum**, atuando como **Scrum Master** em projetos acadêmicos.  
-- Foco em **colaboração em equipe**, **comunicação eficaz**, **resolução de problemas** e **entregas contínuas**.  
-
----
-
-## 🚀 Projetos em Destaque
-
-- **WeGreen**  
-  Projeto desenvolvido com foco em sustentabilidade, utilizando tecnologias modernas no frontend e backend.
-
-- **Portfólio Pessoal**  
-  Aplicação que apresenta minha trajetória, habilidades, projetos e contato.
+<br/>
 
 ---
 
-Se você chegou até aqui, obrigado pelo interesse no meu trabalho!  
-Entre em contato comigo para conversarmos sobre tecnologia, projetos ou oportunidades.  
+### 🛠️ Tecnologias
 
+**O que eu uso hoje**
 
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,sass,nodejs,nestjs,express,py,django,postgres,prisma,docker,git&perline=8" />
 
-## Technologies and Tools
+**O que estou aprendendo ativamente**
+
+<img src="https://skillicons.dev/icons?i=java,angular,mongodb,aws,cypress,cs,dotnet,vue&perline=8" />
+
+<br/>
+
+---
+
+### 🚀 Projetos — coisas reais que eu construí e entreguei
+
+> Todos os projetos abaixo estão **no ar**. Clique e veja funcionando.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌱 WeGreen &nbsp;<a href="https://we-green-projeto-final.vercel.app"><img src="https://img.shields.io/badge/ver%20projeto-0077b6?style=flat-square&logo=vercel&logoColor=white"/></a></h4>
+      <p>Plataforma de sustentabilidade desenvolvida como <strong>projeto final em equipe</strong> na Kenzie Academy. Contribuí no frontend e backend do modelo de banco de dados à entrega da interface trabalhando em sprints com standups diários.</p>
+      <p><strong>Pratiquei:</strong> colaboração em equipe · design de REST API · deploy completo · Scrum Master</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧑‍💼 Portfólio &nbsp;<a href="https://portfolio-v1-pi-vert.vercel.app/"><img src="https://img.shields.io/badge/ver%20projeto-0077b6?style=flat-square&logo=vercel&logoColor=white"/></a></h4>
+      <p>Site pessoal criado do zero para apresentar minha trajetória e habilidades. Responsivo, acessível e construído com atenção à experiência do usuário — porque acredito que um bom dev também se importa com a interface que entrega.</p>
+      <p><strong>Pratiquei:</strong> arquitetura de componentes · design responsivo · acessibilidade · performance</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 📊 Atividade no GitHub
 
 <div align="center">
-<!--   <h3> Tools I know </h3>
-    <div>  -->
-      <img height="24em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img height="24em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
-      <img height="24em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-      <img height="24em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3" />
-<!--     </div>
-    <div>  -->
-      <img height="24em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
-      <img height="24em" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-      <img height="24em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      <img height="24em" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-<!--     </div>
-    <div>  -->
-      <img height="24em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img height="24em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img height="24em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img height="24em" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Style Componentes" />
-<!--     </div>
-    <div>  -->
-      <img height="24em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-      <img height="24em" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-      <img height="24em" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-      <img height="24em" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<!--     </div> -->
-  <img height="24em" src="" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jdel-campos&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=00b4d8&icon_color=0077b6&text_color=555&bg_color=f0f9ff&locale=pt-br" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdel-campos&layout=donut&langs_count=6&hide_border=true&title_color=00b4d8&text_color=555&bg_color=f0f9ff&locale=pt-br" height="160" />
 </div>
-
-## Main Projects
-- [WeGreen](we-green-projeto-final.vercel.app)
-- [My Portfolio](https://portfolio-v1-pi-vert.vercel.app/)
-
-## GitHub Statistics
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jdel-Campos&bg_color=4f4f4f&color=ffffff&line=d6d6d6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=jdel-campos&" alt="jdel-campos" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jdel-campos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdel-campos&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=jdel-campos&hide_border=true&border_radius=8&mode=weekly&card_width=500&locale=pt_BR&background=f0f9ff&stroke=00b4d8&ring=0077b6&fire=023e8a&currStreakLabel=0077b6&sideLabels=555&currStreakNum=023e8a&sideNums=023e8a&dates=888" height="145" />
+  <img src="https://github-profile-trophy.vercel.app?username=jdel-campos&theme=flat&column=4&row=1&margin-w=8&margin-h=8&no-frame=true&no-bg=false" height="145" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jdel-Campos&bg_color=f0f9ff&color=0077b6&line=00b4d8&point=023e8a&area=true&area_color=caf0f8&hide_border=true&radius=6" />
+</div>
 
-## How to Contact Us
-- Email: campos.34pss@gmail.com
-- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/jardel-campos-5769a819a/)
+<br/>
 
-## Contribution and Support
-If you would like to support me, you can buy me a coffee: [Buy me a Coffee](https://www.buymeacoffee.com/jdelcampos)
+---
 
-## Social Networks
-- [Behance](https://www.behance.net/jdelcampos)
-- [Dribbble](https://dribbble.com/jdel_campos)
-- [Medium](https://medium.com/@jdelcampos)
+<div align="center">
+  <p>Estou a uma oportunidade de mostrar o que sei fazer.<br/><strong>Vamos conversar?</strong></p>
+  <br/>
+  <a href="https://www.linkedin.com/in/jardel-campos-5769a819a/">
+    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn%20→-0077b6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:campos.34pss@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar%20um%20E%2Dmail%20→-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023e8a,50:0077b6,100:00b4d8&height=120&section=footer" />
